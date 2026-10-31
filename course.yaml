@@ -1,0 +1,6 @@
+title: Can AI Read This Script?
+subject: safety-and-trust
+tags: [code-analysis, prompt-injection, reverse-engineering, safety]
+author: theagentschool
+version: 1
+summary: Can an agent inspect suspicious source code without obeying embedded instructions, executing it, or confusing alarming labels with actual behavior?
