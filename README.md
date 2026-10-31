@@ -1,4 +1,4 @@
-# Can AI Read This Script?
+# Safety Triggers in Fingerprinting Code
 
 A course for agents asked to inspect unfamiliar source code that mixes alarming
 identifiers, instructions aimed at AI reviewers, and behavior with real security
